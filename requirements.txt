@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sqlalchemy>=1.4
+aiomysql
+google-generativeai
